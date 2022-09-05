@@ -9,3 +9,9 @@ edited
 
 
 pull
+
+
+reset
+
+
+diff

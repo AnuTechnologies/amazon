@@ -15,3 +15,6 @@ reset
 
 
 diff
+
+
+pull & fetch

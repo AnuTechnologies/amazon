@@ -15,6 +15,9 @@ reset
 
 
 diff
+<<<<<<< HEAD
 
 
 pull & fetch
+=======
+>>>>>>> 64dbd83 (diff added)
